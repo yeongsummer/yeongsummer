@@ -1,6 +1,6 @@
 # Hi there 👋
 I'm studying programming hard ✏
-
+<h2>✨ Interest</h2>
 
 <h2>🔨 Tech Stack</h2>
 <div>
