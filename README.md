@@ -7,7 +7,11 @@ I'm studying programming hard ✏
 
 
 <h2>✨ Interest</h2>
-- 
+- Math
+- Statistic
+- Big data
+- Algorithm
+- Web
 <h2>🔨 Tech Stack</h2>
 
 <div>
