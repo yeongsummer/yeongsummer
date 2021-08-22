@@ -21,3 +21,5 @@ I'm studying programming hard ✏
 ![MySQL](https://img.shields.io/badge/MySQL-FFAD00?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108)](https://solved.ac/dudgk0108)
