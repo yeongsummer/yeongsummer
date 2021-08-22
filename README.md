@@ -1,6 +1,6 @@
 # Hi there 👋
 [![Blog Badge](https://img.shields.io/badge/Daily%20Blog-EA4AAA?style=flat&logo=GitHubSponsors&logoColor=white)](https://blog.naver.com/duddud0108/)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-F7D358?style=flat&logo=DPD&logoColor=white)](https://glory-summer.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://glory-summer.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qwer62636275@gmail.com)
 
  My name is Youngha Jang.😀 I'm recently learning programming on SSAFY.  
