@@ -1,8 +1,6 @@
 # Hi there 👋
-<a href="https://glory-summer.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
-</a>
-
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white)](https://glory-summer.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qwer62636275@gmail.com)
 I'm studying programming hard ✏ 
 
 
