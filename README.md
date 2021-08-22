@@ -23,3 +23,4 @@ I'm studying programming hard ✏
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108)](https://solved.ac/dudgk0108)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
