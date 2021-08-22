@@ -2,6 +2,7 @@
 [![Blog Badge](https://img.shields.io/badge/Daily%20Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/duddud0108/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-EA4AAA?style=flat&logo=GitHubSponsors&logoColor=white)](https://glory-summer.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qwer62636275@gmail.com)
+
 I'm studying programming hard ✏ 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
