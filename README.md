@@ -3,7 +3,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-DE00A5?style=flat&logo=DPD&logoColor=white)](https://glory-summer.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qwer62636275@gmail.com)
 
-I'm studying programming hard ✏ 
+I'm studying programming hard. 
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
 
@@ -12,10 +12,10 @@ I'm studying programming hard ✏
 - ✨ I'm very curious!!!
 
 ## What i study ✏
-- Data analysis
-- Algorithm
-- Web
-- SQL
+- 📜 Data analysis
+- 🎵 Algorithm
+- 🖥 Web
+- 🔗 SQL
 
 ## What i like
 - 
