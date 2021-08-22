@@ -15,7 +15,8 @@ I think my possibilities are endless✨ cheer my dream!❤
 
 ## What i study ✏
 - 📜 Data analysis
-- 🎹 Algorithm
+- 🦾 Machine Learning & Deep Learning
+- 👩‍💻 Algorithm
 - 🖥 Web
 - 🔗 SQL
 
