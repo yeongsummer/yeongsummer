@@ -20,10 +20,10 @@ I think my possibilities are endless✨ cheer my dream!❤
 - 🖥 Web
 - 🔗 SQL
 
-## What i like
-- 🎞 Movie
-- 🎵 Romantic music
-- 🏃‍♀️ Running
+## What i like 🎈
+- 🎞 Movie (Thriller & Horror👻)
+- 🎵 Romantic music (My favorite singer is Paul Kim.💖)
+- 🏃‍♀️ Running (Love & Hate)
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
