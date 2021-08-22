@@ -7,10 +7,9 @@ I'm studying programming hard ✏
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
 
-## Who am I 
-- I majored in math 🎓
-- I majored in statistics 🎓
-- I am very curious 😎
+## Who am I 😎
+- 🎓 I majored in math and statistics.
+- ✨ I'm very curious!!!
 
 ## What i study ✏
 - Data analysis
