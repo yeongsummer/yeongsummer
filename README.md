@@ -13,12 +13,14 @@ I'm studying programming hard.
 
 ## What i study ✏
 - 📜 Data analysis
-- 🎵 Algorithm
+- 🎹 Algorithm
 - 🖥 Web
 - 🔗 SQL
 
 ## What i like
-- 
+- 🎞 Movie
+- 🎵 Romantic music
+- 🏃‍♀️ Running
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
