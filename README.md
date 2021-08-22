@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qwer62636275@gmail.com)
 I'm studying programming hard ✏ 
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
+
 ## Who am I
 - I majored in math 🎓
 - I majored in statistics 🎓
@@ -22,5 +24,3 @@ I'm studying programming hard ✏
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108)](https://solved.ac/dudgk0108)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
