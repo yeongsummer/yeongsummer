@@ -9,18 +9,18 @@ I think my possibilities are endless✨ cheer my dream!❤
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
 
-## Who am I 😎
+## Who am I
 - 🎓 I majored in math and statistics.
 - ✨ I'm very curious!!!
 
-## What i study ✏
+## What i study
 - 📜 Data analysis
 - 🦾 Machine Learning & Deep Learning
 - 👩‍💻 Algorithm
 - 🖥 Web
 - 🔗 SQL
 
-## What i like 🎈
+## What i like
 - 🎞 Movie (Thriller & Horror👻)
 - 🎵 Romantic music (My favorite singer is Paul Kim.💖)
 - 🏃‍♀️ Running (Love & Hate)
