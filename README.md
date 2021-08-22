@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm studying programming hard ✏ 
 <br>
-<img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tech%20Blog-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 <h2>✨ Interest</h2>
 - 
 <h2>🔨 Tech Stack</h2>
