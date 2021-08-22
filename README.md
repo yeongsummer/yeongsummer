@@ -1,9 +1,8 @@
 # Hi there 👋
 I'm studying programming hard ✏ 
+<br>
 <a href="https://glory-summer.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-#EA4AAA?style=flat&logo=GitHub Sponsors&link=https://glory-summer.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog-#EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 </a>
 <h2>✨ Interest</h2>
 - 
