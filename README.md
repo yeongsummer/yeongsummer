@@ -31,4 +31,5 @@ I think my possibilities are endless✨ cheer my dream!❤
 ![MySQL](https://img.shields.io/badge/MySQL-FFAD00?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 
