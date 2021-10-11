@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yeongha&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yeongha&fontSize=70)
 
 # Hi there 👋
 [![Blog Badge](https://img.shields.io/badge/Daily%20Blog-EA4AAA?style=flat&logo=GitHubSponsors&logoColor=white)](https://blog.naver.com/duddud0108/)
