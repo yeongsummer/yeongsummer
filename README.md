@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yeongha&fontSize=70)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yeongha%20Jang&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SW%20developer%20😎&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yeongha%20Jang&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SW%20developer%20😎&descAlignY=60&descAlign=50)
 
 # Hi there 👋
 [![Blog Badge](https://img.shields.io/badge/Daily%20Blog-EA4AAA?style=flat&logo=GitHubSponsors&logoColor=white)](https://blog.naver.com/duddud0108/)
