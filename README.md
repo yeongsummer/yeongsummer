@@ -19,7 +19,7 @@ I think my possibilities are endless✨ cheer my dream!❤
 - 📜 Data analysis
 - 🦾 Machine Learning & Deep Learning
 - 👩‍💻 Algorithm
-- 🖥 Web
+- 🖥 Frond-end & Back-end
 - 🔗 SQL
 
 ## What i like
