@@ -5,7 +5,7 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://glory-summer.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qwer62636275@gmail.com)
 
-My name is Yeongha Jang.😀 I'm recently learning programming on SSAFY.
+My name is Yeongha Jang.😀 I'm recently learning programming on SSAFY.   
 I love programming so much that I often code without even realizing the time is passing.😂  
 I think my possibilities are endless✨ Cheer my dream!❤
 
