@@ -24,7 +24,7 @@ I think my possibilities are endless✨ Cheer my dream❤
 
 ## What i like
 - 🎞 Movie (Thriller & Horror👻)
-- 🎵 Romantic music (My favorite singer is Paul Kim.💖)
+- 🎵 Romantic music (My favorite singer is Paul Kim💖)
 - 🏃‍♀️ Running (Love & Hate)
 
 ## Tech Stack 
