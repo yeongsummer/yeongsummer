@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9E4AA&height=250&section=header&text=Yeongha%20Jang&&fontColor=484848&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20💻&descAlignY=60&descAlign=67)
 
-# 안녕하세요, 무한한 성장 가능성을 가진 개발자 장영하 입니다 👋
+# 저는 무한한 성장 가능성을 가진 개발자입니다 👋
 [![Blog Badge](https://img.shields.io/badge/Daily%20Blog-EA4AAA?style=flat&logo=GitHubSponsors&logoColor=white)](https://blog.naver.com/duddud0108/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://glory-summer.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:qwer62636275@gmail.com)
@@ -21,11 +21,6 @@ I think my possibilities are endless✨ Cheer my dream.❤
 - 👩‍💻 Algorithm
 - 🖥 Frond-end & Back-end
 - 🔗 SQL
-
-## What i like
-- 🎞 Movie (Thriller & Horror👻)
-- 🎵 Romantic music (My favorite singer is Paul Kim💖)
-- 🏃‍♀️ Running (Love & Hate)
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
