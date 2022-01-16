@@ -28,3 +28,6 @@ I think my possibilities are endless✨ Cheer my dream❤
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+
+## Portfolio
+![장영하 ](https://www.notion.so/Yeongha-Jang-90a41c7497b8412681a33f9241071580)
