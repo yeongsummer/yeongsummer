@@ -30,4 +30,4 @@ I think my possibilities are endless✨ Cheer my dream❤
 ![django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 
 ## Portfolio
-[장영하_포트폴리오](https://www.notion.so/Yeongha-Jang-90a41c7497b8412681a33f9241071580)
+[장영하_포트폴리오](https://dapper-dive-b22.notion.site/Yeongha-Jang-90a41c7497b8412681a33f9241071580)
