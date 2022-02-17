@@ -7,7 +7,7 @@
 
 My name is Yeongha Jang.😀 I'm recently learning programming on SSAFY.   
 I love programming so much that I often code without even realizing the time is passing.😂  
-I think my possibilities are endless.✨ Cheer my dream.❤
+I think my possibilities are endless.✨ Cheer my dream❤
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0108">
 
