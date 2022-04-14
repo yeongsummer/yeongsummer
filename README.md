@@ -30,7 +30,7 @@ I think my possibilities are endless.✨ Cheer my dream❤
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Go](https://img.shields.io/badge/Go-6DB33F?style=flat-square&logo=Go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 ## Portfolio
 [장영하_포트폴리오](https://dapper-dive-b22.notion.site/Yeongha-Jang-90a41c7497b8412681a33f9241071580)
